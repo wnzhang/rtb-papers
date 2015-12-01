@@ -1,4 +1,4 @@
-# Paper Collection of Real-Time Bidding (RTB) based Display Advertising
+# Paper Collection of Real-Time Bidding
 
 This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques.
 **Welcome you to update this list!** If you find a paper about RTB techniques or review which is no listed here, please fork this repository, add it and merge back.
