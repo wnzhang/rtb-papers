@@ -78,10 +78,5 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
 
 <!---
-<<<<<<< HEAD
 * [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). by . 
 -->
-=======
-* . [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). 
--->
->>>>>>> e5bb322b10b2ea12555898333ef032030876daae
