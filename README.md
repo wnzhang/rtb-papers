@@ -1,4 +1,4 @@
-# rtb-papers
+# Paper Collection of Real-Time Bidding (RTB) based Display Advertising
 A collection of research and review papers of real-time bidding (RTB) based display advertising techniques.
 
 ## Tutorials
