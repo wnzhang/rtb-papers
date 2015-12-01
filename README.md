@@ -56,6 +56,8 @@ This is a collection of research and review papers of real-time bidding (RTB) ba
 
 ## Conversion Attribution
 * [Multi-Touch Attribution Based Budget Allocation in Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/mta-budget-allocation.pdf) by Sahin Cem Geyik, Abhishek Saxena, Ali Dasdan. ADKDD 2014.
+* [Causally Motivated Attribution for Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/causal-conv-att.pdf). by Brian Dalessandro et al. ADKDD 2012.
+* [Data-driven Multi-touch Attribution Models](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
 
 ## Economics and Game Theory
 * [Repeated Auctions with Budgets in Ad Exchanges: Approximations and Design](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/repeat-auction.pdf) by Santiago R. Balseiro, Omar Besbesy, Gabriel Y. Weintraub. Management Science 2015.
@@ -74,5 +76,5 @@ This is a collection of research and review papers of real-time bidding (RTB) ba
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
 
 <!---
-* . [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). 
+* [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). by . 
 -->
