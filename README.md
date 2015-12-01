@@ -14,8 +14,9 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ## Review Papers
 
+* [A Survey on Real Time Bidding Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-survey.pdf) by Yong Yuan. Service Operations and Logistics 2014.
+* [Real-time Bidding for Online Advertising: Measurement and Analysis](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-analysis.pdf) by Shuai Yuan, Jun Wang, Xiaoxue Zhao. ADKDD 2013.
 * [Ad Exchanges: Research Issues](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/adx.pdf) by S. Muthukrishnan. Internet and network economics 2009.
-* [Real-time Bidding for Online Advertising: Measurement and Analysis](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-analysis.pdf) by Shuai Yuan, Jun Wang, Xiaoxue Zhao. ADKDD 2014.
 
 ## Demand-Side Platform (DSP) Techniques
 
@@ -35,6 +36,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ### Bidding Strategies
 * [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/throatling-pacing.pdf) by Jian Xu et al. ArXiv 2015.
 * [Statistical Arbitrage Mining for Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-arbitrage.pdf) by Weinan Zhang, Jun Wang. KDD 2015.
+* [Real-Time Bidding rules of thumb: analytically optimizing the programmatic buying of ad-inventory](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/opt-prog-buy.pdf) by Joaquin Fernandez-Tapia. SSRN 2015.
 * [Optimal Real-Time Bidding for Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/optimal-rtb.pdf) by Weinan Zhang, Shuai Yuan, Jun Wang. KDD 2014.
 * [Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lin-bid.pdf) by Claudia Perlich et al. KDD 2012.
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011.
