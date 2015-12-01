@@ -1,8 +1,11 @@
 # Paper Collection of Real-Time Bidding
 
 This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques.
-**Welcome you to update this list!** If you find a paper about RTB techniques or review which is no listed here, please fork this repository, add it and merge back.
-Of course you can email [Weinan Zhang](http://www0.cs.ucl.ac.uk/staff/w.zhang/) (w.zhang@cs.ucl.ac.uk) or report an issue here.
+
+**Welcome you to update this list!** If you find a paper about RTB techniques or review which is no listed here, please 
+* fork this repository, add it and merge back;
+* or email [Weinan Zhang](http://www0.cs.ucl.ac.uk/staff/w.zhang/) (w.zhang@cs.ucl.ac.uk);
+* or report an issue here.
 
 ## Tutorials
 * Shuai Yuan and Jun Wang. [Real-Time Bidding: A New Frontier of Computational Advertising Research](http://tutorial-wsdm-2015.computational-advertising.org/). WSDM 2015.
@@ -26,7 +29,7 @@ Of course you can email [Weinan Zhang](http://www0.cs.ucl.ac.uk/staff/w.zhang/) 
 ### Bid Landscape
 * Wush Chi-Hsuan Wu, Mi-Yen Yeh, Ming-Syan Chen. [Predicting Winning Price in Real Time Bidding with Censored Data](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/win-price-pred.pdf). KDD 2015.
 * Kevin J. Lang, Benjamin Moseley, Sergei Vassilvitskii. [Handling Forecast Errors While Bidding for Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/forecast-err.pdf). WWW 2012.
-* Ying Cu et al. [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-lands.pdf). KDD 2011.
+* Ying Cui et al. [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-lands.pdf). KDD 2011.
 
 ### Bidding Strategies
 * Jian Xu et al. [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/throatling-pacing.pdf). ArXiv 2015.
