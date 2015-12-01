@@ -2,7 +2,8 @@
 
 This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques.
 
-**Welcome you to update this list!** If you find a paper about RTB techniques or review which is no listed here, please 
+**You are more than welcome to update this list!** <br>
+If you find a paper about RTB techniques or review which is not listed here, please 
 * fork this repository, add it and merge back;
 * or email [Weinan Zhang](http://www0.cs.ucl.ac.uk/staff/w.zhang/) (w.zhang@cs.ucl.ac.uk);
 * or report an issue here.
@@ -48,6 +49,7 @@ This is a collection of research and review papers of real-time bidding (RTB) ba
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
 
 ## Supply-Side Platform (SSP) Techniques
+* [A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising](http://arxiv.org/pdf/1405.5189.pdf) by Bowei Chen, Shuai Yuan and Jun Wang. ADKDD 2014.
 * [An Empirical Study of Reserve Price Optimisation in Real-Time Bidding](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/reserve-price.pdf) by Shuai Yuan et al. KDD 2014.
 * [Information Disclosure in Real-Time Bidding Advertising Markets](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-info.pdf) by Juanjuan Li, Yong Yuan, Rui Qin. SOLI 2014.
 
@@ -76,5 +78,10 @@ This is a collection of research and review papers of real-time bidding (RTB) ba
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
 
 <!---
+<<<<<<< HEAD
 * [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). by . 
 -->
+=======
+* . [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). 
+-->
+>>>>>>> e5bb322b10b2ea12555898333ef032030876daae
