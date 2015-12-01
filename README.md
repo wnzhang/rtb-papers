@@ -2,7 +2,7 @@
 
 This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques.
 
-**Welcome you to update this list!** <br>
+**You are more than welcome to update this list!** <br>
 If you find a paper about RTB techniques or review which is not listed here, please 
 * fork this repository, add it and merge back;
 * or email [Weinan Zhang](http://www0.cs.ucl.ac.uk/staff/w.zhang/) (w.zhang@cs.ucl.ac.uk);
