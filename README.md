@@ -27,6 +27,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Scalable Hands-Free Transfer Learning for Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/transfer-ctr.pdf) by Brian Dalessandro et al. KDD 2014. 
 * [Evaluating and Optimizing Online Advertising: Forget the click, but there are good proxies](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/forget-click.pdf) by Brian Dalessandro et al. SSRN 2012.
 * [Modeling Delayed Feedback in Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/delayed-feedback.pdf) by Olivier Chapelle. KDD 2014.
+* [Ad Click Prediction: a View from the Trenches](https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf) by H. Brendan McMahan. KDD 2013.
 
 ### Bid Landscape
 * [Predicting Winning Price in Real Time Bidding with Censored Data](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/win-price-pred.pdf) by Wush Chi-Hsuan Wu, Mi-Yen Yeh, Ming-Syan Chen. KDD 2015.
