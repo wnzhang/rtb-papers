@@ -38,7 +38,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ### Bidding Strategies
 * [Optimal Real-Time Bidding Strategies](http://arxiv.org/abs/1511.08409) by Joaquin Fernandez-Tapia, Olivier Guéant, Jean-Michel Lasry. ArXiv 2015.
 * [Statistical modeling of Vickrey auctions and applications to automated bidding strategies](https://www.researchgate.net/publication/283579660_Statistical_modeling_of_Vickrey_auctions_and_applications_to_automated_bidding_strategies) by Joaquin Fernandez-Tapia. Working paper.
-* [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/throatling-pacing.pdf) by Jian Xu et al. ArXiv 2015.
+* [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lift-bidding.pdf) by Jian Xu et al. ArXiv 2015.
 * [Statistical Arbitrage Mining for Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-arbitrage.pdf) by Weinan Zhang, Jun Wang. KDD 2015.
 * [Real-Time Bidding rules of thumb: analytically optimizing the programmatic buying of ad-inventory](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/opt-prog-buy.pdf) by Joaquin Fernandez-Tapia. SSRN 2015.
 * [Optimal Real-Time Bidding for Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/optimal-rtb.pdf) by Weinan Zhang, Shuai Yuan, Jun Wang. KDD 2014.
@@ -46,7 +46,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011.
 
 ### Budget Pacing
-* [Smart Pacing for Effective Online Ad Campaign Optimization](http://arxiv.org/abs/1507.04811) by Jian Xu et al. KDD 2015.
+* [Smart Pacing for Effective Online Ad Campaign Optimization](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/throatling-pacing.pdf) by Jian Xu et al. KDD 2015.
 * [An analytical solution to the budget-pacing problem in programmatic advertising](https://www.researchgate.net/publication/283579658_An_analytical_solution_to_the_budget-pacing_problem_in_programmatic_advertising) by Joaquin Fernandez-Tapia. Working paper.
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/budget-smooth.pdf) by Kuang-Chih Lee, Ali Jalali, Ali Dasdan. ADKDD 2013.
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/linkedin-pacing.pdf) by Deepak Agarwal et al. KDD 2014.
