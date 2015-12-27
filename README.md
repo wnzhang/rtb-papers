@@ -64,7 +64,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ## Conversion Attribution
 * [Multi-Touch Attribution Based Budget Allocation in Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/mta-budget-allocation.pdf) by Sahin Cem Geyik, Abhishek Saxena, Ali Dasdan. ADKDD 2014.
-* [Causally Motivated Attribution for Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/causal-conv-att.pdf). by Brian Dalessandro et al. ADKDD 2012.
+* [Causally Motivated Attribution for Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/causual-conv-att.pdf). by Brian Dalessandro et al. ADKDD 2012.
 * [Data-driven Multi-touch Attribution Models](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
 
 ## Economics and Game Theory
