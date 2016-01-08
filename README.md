@@ -39,7 +39,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lift-bidding.pdf) by Jian Xu et al. AAAI 2016.
 * [Feedback Control of Real-Time Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/papers/fc-wsdm.pdf) by Weinan Zhang et al. WSDM 2016.
 * [Optimal Real-Time Bidding Strategies](http://arxiv.org/abs/1511.08409) by Joaquin Fernandez-Tapia, Olivier Guéant, Jean-Michel Lasry. ArXiv 2015.
-* [Programmatic Buying Bidding Strategies with Win Rate and Winning Price Estimation in Real Time Mobile Advertising](http://link.springer.com/chapter/10.1007/978-3-319-06608-0_37#page-1) by Xiang Li and Devin Guan. PAKDD 2014.
+* [Programmatic Buying Bidding Strategies with Win Rate and Winning Price Estimation in Real Time Mobile Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-drawbridge.pdf) by Xiang Li and Devin Guan. PAKDD 2014.
 * [Statistical modeling of Vickrey auctions and applications to automated bidding strategies](https://www.researchgate.net/publication/283579660_Statistical_modeling_of_Vickrey_auctions_and_applications_to_automated_bidding_strategies) by Joaquin Fernandez-Tapia. Working paper.
 * [Statistical Arbitrage Mining for Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-arbitrage.pdf) by Weinan Zhang, Jun Wang. KDD 2015.
 * [Real-Time Bidding rules of thumb: analytically optimizing the programmatic buying of ad-inventory](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/opt-prog-buy.pdf) by Joaquin Fernandez-Tapia. SSRN 2015.
