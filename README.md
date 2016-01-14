@@ -84,6 +84,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Datasets and Benchmarking
 * [iPinYou Global RTB Bidding Algorithm Competition Dataset](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/ipinyou-dataset.pdf) by Hairen Liao et al. ADKDD 2014.
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
+* [Criteo Conversion Logs Dataset](http://labs.criteo.com/downloads/2014-conversion-logs-dataset/) by Criteo Labs.
+* [Criteo Terabyte Click Logs](http://labs.criteo.com/downloads/download-terabyte-click-logs/) by Criteo Labs.
 
 <!---
 * [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). by . 
