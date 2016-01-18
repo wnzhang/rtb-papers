@@ -21,6 +21,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
+* [Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction](http://arxiv.org/pdf/1601.02376v1.pdf) by Weinan Zhang, Tiamning Du, Jun Wang. ECIR 2016.
 * [Offline Evaluation of Response Prediction in Online Advertising Auctions](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
 * [Predicting Response in Mobile Advertising with Hierarchical Importance-Aware Factorization Machine](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ctr.pdf) by Richard J. Oentaryo et al. WSDM 2014.
 * [Estimating Conversion Rate in Display Advertising from Past Performance Data](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012. 
@@ -62,6 +63,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Information Disclosure in Real-Time Bidding Advertising Markets](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-info.pdf) by Juanjuan Li, Yong Yuan, Rui Qin. SOLI 2014.
 
 ## Data Management Platform (DMP) Techniques
+* [Implicit Look-alike Modelling in Display Ads: Transfer Collaborative Filtering to CTR ](http://arxiv.org/pdf/1601.02377v1.pdf) by Weinan Zhang, Lingxi Chen, Jun Wang. ECIR 2016.
 * [Pleasing the advertising oracle: Probabilistic prediction from sampled, aggregated ground truth](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/sample-pred.pdf) by Melinda Han Williams et al. ADKDD 2014.
 
 ## Conversion Attribution
