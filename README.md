@@ -21,6 +21,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
+* [Factorization Machines with Follow-The-Regularized-Leader for CTR prediction in
+Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.pdf) by Anh-Phuong Ta. BigData 2015.
 * [Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction](http://arxiv.org/pdf/1601.02376v1.pdf) by Weinan Zhang, Tiamning Du, Jun Wang. ECIR 2016.
 * [Offline Evaluation of Response Prediction in Online Advertising Auctions](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
 * [Predicting Response in Mobile Advertising with Hierarchical Importance-Aware Factorization Machine](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ctr.pdf) by Richard J. Oentaryo et al. WSDM 2014.
@@ -39,6 +41,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ### Bidding Strategies
 * [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lift-bidding.pdf) by Jian Xu et al. AAAI 2016.
 * [Feedback Control of Real-Time Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/papers/fc-wsdm.pdf) by Weinan Zhang et al. WSDM 2016.
+* [Adaptive Targeting for Online Advertisement](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/adaptive-targeting.pdf) by Andrey Pepelyshev, Yuri Staroselskiy, Anatoly Zhigljavsky. Machine Learning, Optimization, and Big Data 2015.
 * [Optimal Real-Time Bidding Strategies](http://arxiv.org/abs/1511.08409) by Joaquin Fernandez-Tapia, Olivier Guéant, Jean-Michel Lasry. ArXiv 2015.
 * [Programmatic Buying Bidding Strategies with Win Rate and Winning Price Estimation in Real Time Mobile Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-drawbridge.pdf) by Xiang Li and Devin Guan. PAKDD 2014.
 * [Statistical modeling of Vickrey auctions and applications to automated bidding strategies](https://www.researchgate.net/publication/283579660_Statistical_modeling_of_Vickrey_auctions_and_applications_to_automated_bidding_strategies) by Joaquin Fernandez-Tapia. Working paper.
