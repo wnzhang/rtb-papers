@@ -41,7 +41,6 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 ### Bidding Strategies
 * [Lift-Based Bidding in Ad Selection](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lift-bidding.pdf) by Jian Xu et al. AAAI 2016.
 * [Feedback Control of Real-Time Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/papers/fc-wsdm.pdf) by Weinan Zhang et al. WSDM 2016.
-* [Adaptive Targeting for Online Advertisement](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/adaptive-targeting.pdf) by Andrey Pepelyshev, Yuri Staroselskiy, Anatoly Zhigljavsky. Machine Learning, Optimization, and Big Data 2015.
 * [Optimal Real-Time Bidding Strategies](http://arxiv.org/abs/1511.08409) by Joaquin Fernandez-Tapia, Olivier Guéant, Jean-Michel Lasry. ArXiv 2015.
 * [Programmatic Buying Bidding Strategies with Win Rate and Winning Price Estimation in Real Time Mobile Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/bid-drawbridge.pdf) by Xiang Li and Devin Guan. PAKDD 2014.
 * [Statistical modeling of Vickrey auctions and applications to automated bidding strategies](https://www.researchgate.net/publication/283579660_Statistical_modeling_of_Vickrey_auctions_and_applications_to_automated_bidding_strategies) by Joaquin Fernandez-Tapia. Working paper.
@@ -51,11 +50,13 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Bid Optimizing and Inventory Scoring in Targeted Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/lin-bid.pdf) by Claudia Perlich et al. KDD 2012.
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011.
 
-### Budget Pacing
+### Budget Pacing & Frequency/Recency Capping
 * [Smart Pacing for Effective Online Ad Campaign Optimization](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/throatling-pacing.pdf) by Jian Xu et al. KDD 2015.
 * [An analytical solution to the budget-pacing problem in programmatic advertising](https://www.researchgate.net/publication/283579658_An_analytical_solution_to_the_budget-pacing_problem_in_programmatic_advertising) by Joaquin Fernandez-Tapia. Working paper.
+* [Adaptive Targeting for Online Advertisement](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/adaptive-targeting.pdf) by Andrey Pepelyshev, Yuri Staroselskiy, Anatoly Zhigljavsky. Machine Learning, Optimization, and Big Data 2015.
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/budget-smooth.pdf) by Kuang-Chih Lee, Ali Jalali, Ali Dasdan. ADKDD 2013.
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/linkedin-pacing.pdf) by Deepak Agarwal et al. KDD 2014.
+* [Frequency Capping in Online Advertising](http://theory.epfl.ch/moranfe/Publications/WADS2011.pdf) by Niv Buchbinder et al. WADS 2011.
 
 ### Fruad Detection
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
