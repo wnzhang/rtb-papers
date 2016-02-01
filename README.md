@@ -51,6 +51,7 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011.
 
 ### Budget Pacing & Frequency/Recency Capping
+* [From 0.5 Million to 2.5 Million: Efficiently Scaling up Real-Time Bidding](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/turn-throatling.pdf) by Jianqian Shen et al. ICDM 2015.
 * [Smart Pacing for Effective Online Ad Campaign Optimization](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/throatling-pacing.pdf) by Jian Xu et al. KDD 2015.
 * [An analytical solution to the budget-pacing problem in programmatic advertising](https://www.researchgate.net/publication/283579658_An_analytical_solution_to_the_budget-pacing_problem_in_programmatic_advertising) by Joaquin Fernandez-Tapia. Working paper.
 * [Adaptive Targeting for Online Advertisement](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/adaptive-targeting.pdf) by Andrey Pepelyshev, Yuri Staroselskiy, Anatoly Zhigljavsky. Machine Learning, Optimization, and Big Data 2015.
