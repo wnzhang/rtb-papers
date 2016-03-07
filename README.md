@@ -60,7 +60,7 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/linkedin-pacing.pdf) by Deepak Agarwal et al. KDD 2014.
 * [Frequency Capping in Online Advertising](http://theory.epfl.ch/moranfe/Publications/WADS2011.pdf) by Niv Buchbinder et al. WADS 2011.
 
-### Fruad Detection
+### Fraud Detection
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
 
 ## Supply-Side Platform (SSP) Techniques
