@@ -91,6 +91,9 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Selling Off Privacy at Auction](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/privacy.pdf) by Lukasz Olejnik, Tran Minh-Dung, Claude Castelluccia. NDSS 2014.
 * [Network Analysis of Third Party Tracking: User Exposure to Tracking Cookies through Search](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/user-tracking.pdf) by Richard Gomer et al. WI 2013.
 
+## Systems
+* [Finding Needle in a Million Metrics: Anomaly Detection in a Large-scale Computational Advertising Platform](http://arxiv.org/pdf/1602.07057.pdf) by Bowen Zhou, Shahriar Shariat. TargetAd 2016.
+
 ## Datasets and Benchmarking
 * [iPinYou Global RTB Bidding Algorithm Competition Dataset](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/ipinyou-dataset.pdf) by Hairen Liao et al. ADKDD 2014.
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
