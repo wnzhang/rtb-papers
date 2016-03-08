@@ -21,6 +21,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
+* [Predicting ad click-through rates via feature-based fully coupled interaction tensor factorization](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fctf.pdf) by Lili Shan, Lei Lin, Chengjie Sun, Xiaolong Wang. Electronic Commerce Research and Applications 2016
 * [A Convolutional Click Prediction Model](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/cnn-ctr.pdf) by Qiang Liu, Feng Yu, Shu Wu, Liang Wang. CIKM 2015
 * [Factorization Machines with Follow-The-Regularized-Leader for CTR prediction in
 Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.pdf) by Anh-Phuong Ta. BigData 2015.
