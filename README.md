@@ -63,6 +63,7 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 
 ### Fraud Detection
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
+* [Impression Fraud in On-line Advertising via Pay-Per-View Networks](http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12305-sec13-paper_springborn.pdf) by Kevin Springborn, Paul Barford. USENIX Security Symposium 2013.
 
 ## Supply-Side Platform (SSP) Techniques
 * [A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising](http://arxiv.org/pdf/1405.5189.pdf) by Bowei Chen, Shuai Yuan and Jun Wang. ADKDD 2014.
