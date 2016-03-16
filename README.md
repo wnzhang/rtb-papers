@@ -1,6 +1,6 @@
 # Paper Collection of Real-Time Bidding
 
-This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques.
+This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Weinan Zhang](http://www0.cs.ucl.ac.uk/staff/w.zhang/).
 
 **You are more than welcome to update this list!** <br>
 If you find a paper about RTB techniques or review which is not listed here, please 
@@ -75,6 +75,7 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Pleasing the advertising oracle: Probabilistic prediction from sampled, aggregated ground truth](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/sample-pred.pdf) by Melinda Han Williams et al. ADKDD 2014.
 
 ## Conversion Attribution
+* [Multi-Touch Attribution in Online Advertising with Survival Theory](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/attr-survival.pdf) by Ya Zhang, Yi Wei, and Jianbiao Ren. ICDM 2014.
 * [Multi-Touch Attribution Based Budget Allocation in Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/mta-budget-allocation.pdf) by Sahin Cem Geyik, Abhishek Saxena, Ali Dasdan. ADKDD 2014.
 * [Causally Motivated Attribution for Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/causual-conv-att.pdf). by Brian Dalessandro et al. ADKDD 2012.
 * [Data-driven Multi-touch Attribution Models](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
