@@ -25,7 +25,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [A Convolutional Click Prediction Model](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/cnn-ctr.pdf) by Qiang Liu, Feng Yu, Shu Wu, Liang Wang. CIKM 2015
 * [Factorization Machines with Follow-The-Regularized-Leader for CTR prediction in
 Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.pdf) by Anh-Phuong Ta. BigData 2015.
-* [Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction](http://arxiv.org/pdf/1601.02376v1.pdf) by Weinan Zhang, Tianming Du, Jun Wang. ECIR 2016.
+* [Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/deep-ctr.pdf) by Weinan Zhang, Tianming Du, Jun Wang. ECIR 2016.
 * [Offline Evaluation of Response Prediction in Online Advertising Auctions](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
 * [Predicting Response in Mobile Advertising with Hierarchical Importance-Aware Factorization Machine](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ctr.pdf) by Richard J. Oentaryo et al. WSDM 2014.
 * [Estimating Conversion Rate in Display Advertising from Past Performance Data](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012. 
@@ -71,7 +71,7 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Information Disclosure in Real-Time Bidding Advertising Markets](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-info.pdf) by Juanjuan Li, Yong Yuan, Rui Qin. SOLI 2014.
 
 ## Data Management Platform (DMP) Techniques
-* [Implicit Look-alike Modelling in Display Ads: Transfer Collaborative Filtering to CTR ](http://arxiv.org/pdf/1601.02377v1.pdf) by Weinan Zhang, Lingxi Chen, Jun Wang. ECIR 2016.
+* [Implicit Look-alike Modelling in Display Ads: Transfer Collaborative Filtering to CTR ](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/cf-ctr.pdf) by Weinan Zhang, Lingxi Chen, Jun Wang. ECIR 2016.
 * [Pleasing the advertising oracle: Probabilistic prediction from sampled, aggregated ground truth](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/sample-pred.pdf) by Melinda Han Williams et al. ADKDD 2014.
 
 ## Conversion Attribution
