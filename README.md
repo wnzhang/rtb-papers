@@ -22,6 +22,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ### CTR/CVR Estimation
 * [Predicting ad click-through rates via feature-based fully coupled interaction tensor factorization](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fctf.pdf) by Lili Shan, Lei Lin, Chengjie Sun, Xiaolong Wang. Electronic Commerce Research and Applications 2016
+* [Cost-sensitive Learning for Bidding in Online Advertising Auctions](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/cost-sens-ctr.pdf) by Flavian Vasile, Damien Lefortier. Workshop on E-Commerce, NIPS 2015.
 * [A Convolutional Click Prediction Model](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/cnn-ctr.pdf) by Qiang Liu, Feng Yu, Shu Wu, Liang Wang. CIKM 2015
 * [Factorization Machines with Follow-The-Regularized-Leader for CTR prediction in
 Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.pdf) by Anh-Phuong Ta. BigData 2015.
@@ -80,8 +81,9 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Causally Motivated Attribution for Online Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/causual-conv-att.pdf). by Brian Dalessandro et al. ADKDD 2012.
 * [Data-driven Multi-touch Attribution Models](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
 
-## Economics and Game Theory
+## Ad Exchanges, Economics and Game Theory
 * [Repeated Auctions with Budgets in Ad Exchanges: Approximations and Design](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/repeat-auction.pdf) by Santiago R. Balseiro, Omar Besbesy, Gabriel Y. Weintraub. Management Science 2015.
+* [Ad Exchange: Intention Driven Auction Mechanisms for Mediating Between Publishers and Advertisers](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/adx-mec.pdf) by Rina Azoulay, Esther David. WI/IAT 2015.
 * [Pricing Externalities in Real-Time Bidding Markets](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/rtb-pricing-ext.pdf) by Joseph Reisinger, Michael Driscoll. Machine Learning in Online Advertising.
 * [Competition between Demand-Side Intermediaries in Ad Exchanges](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/dsp-comp.pdf) by Lampros C. Stavrogiannis. PhD Thesis 2014.
 * [Auction Mechanisms for Demand-Side Intermediaries in Online Advertising Exchanges](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/auc-mec-dsp.pdf) by Lampros C. Stavrogiannis, Enrico H. Gerding, Maria Polukarov. AMMAS 2014.
