@@ -9,6 +9,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * or report an issue here.
 
 ## Tutorials
+* [Real-Time Bidding based Display Advertising: Mechanisms and Algorithms](http://tutorial.computational-advertising.org/) by Jun Wang, Shuai Yuan and Weinan Zhang. ECIR 2016.
 * [Real-Time Bidding: A New Frontier of Computational Advertising Research](http://tutorial-wsdm-2015.computational-advertising.org/) by Shuai Yuan and Jun Wang. WSDM 2015.
 * [Research Frontier of Real-Time Bidding based Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/slides/rtb-frontier-2015.pdf) by Weinan Zhang. Beijing 2015.
 
