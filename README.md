@@ -104,6 +104,7 @@ Display Advertising](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/fm-ftrl.p
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
 * [Criteo Conversion Logs Dataset](http://labs.criteo.com/downloads/2014-conversion-logs-dataset/) by Criteo Labs.
 * [Criteo Terabyte Click Logs](http://labs.criteo.com/downloads/download-terabyte-click-logs/) by Criteo Labs.
+* [Avazu Click Prediction](https://www.kaggle.com/c/avazu-ctr-prediction/data) by Avazu.
 
 <!---
 * [](http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/). by . 
