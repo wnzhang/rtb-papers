@@ -22,9 +22,10 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
-* [Predicting ad click-through rates via feature-based fully coupled interaction tensor factorization](http://wnzhang.net/share/rtb-papers/fctf.pdf) by Lili Shan, Lei Lin, Chengjie Sun, Xiaolong Wang. Electronic Commerce Research and Applications 2016
+* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
+* [Predicting ad click-through rates via feature-based fully coupled interaction tensor factorization](http://wnzhang.net/share/rtb-papers/fctf.pdf) by Lili Shan, Lei Lin, Chengjie Sun, Xiaolong Wang. Electronic Commerce Research and Applications 2016.
 * [Cost-sensitive Learning for Bidding in Online Advertising Auctions](http://wnzhang.net/share/rtb-papers/cost-sens-ctr.pdf) by Flavian Vasile, Damien Lefortier. Workshop on E-Commerce, NIPS 2015.
-* [A Convolutional Click Prediction Model](http://wnzhang.net/share/rtb-papers/cnn-ctr.pdf) by Qiang Liu, Feng Yu, Shu Wu, Liang Wang. CIKM 2015
+* [A Convolutional Click Prediction Model](http://wnzhang.net/share/rtb-papers/cnn-ctr.pdf) by Qiang Liu, Feng Yu, Shu Wu, Liang Wang. CIKM 2015.
 * [Factorization Machines with Follow-The-Regularized-Leader for CTR prediction in
 Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phuong Ta. BigData 2015.
 * [Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction](http://wnzhang.net/share/rtb-papers/deep-ctr.pdf) by Weinan Zhang, Tianming Du, Jun Wang. ECIR 2016.
@@ -43,6 +44,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://wnzhang.net/share/rtb-papers/bid-lands.pdf) by Ying Cui et al. KDD 2011.
 
 ### Bidding Strategies
+* [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
 * [Lift-Based Bidding in Ad Selection](http://wnzhang.net/share/rtb-papers/lift-bidding.pdf) by Jian Xu et al. AAAI 2016.
 * [Feedback Control of Real-Time Display Advertising](http://wnzhang.net/papers/fc-wsdm.pdf) by Weinan Zhang et al. WSDM 2016.
 * [Optimal Real-Time Bidding Strategies](http://arxiv.org/abs/1511.08409) by Joaquin Fernandez-Tapia, Olivier Guéant, Jean-Michel Lasry. ArXiv 2015.
