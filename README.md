@@ -44,6 +44,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://wnzhang.net/share/rtb-papers/bid-lands.pdf) by Ying Cui et al. KDD 2011.
 
 ### Bidding Strategies
+* [Optimal Real-Time Bidding for Display Advertising](http://discovery.ucl.ac.uk/1496878/1/weinan-zhang-phd-2016.pdf) by Weinan Zhang. PhD Thesis 2016.
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
 * [Lift-Based Bidding in Ad Selection](http://wnzhang.net/share/rtb-papers/lift-bidding.pdf) by Jian Xu et al. AAAI 2016.
 * [Feedback Control of Real-Time Display Advertising](http://wnzhang.net/papers/fc-wsdm.pdf) by Weinan Zhang et al. WSDM 2016.
