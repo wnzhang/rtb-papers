@@ -44,6 +44,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://wnzhang.net/share/rtb-papers/bid-lands.pdf) by Ying Cui et al. KDD 2011.
 
 ### Bidding Strategies
+* [Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) by Sahin Cem Geyik et al. KDD 2016.
 * [Optimal Real-Time Bidding for Display Advertising](http://discovery.ucl.ac.uk/1496878/1/weinan-zhang-phd-2016.pdf) by Weinan Zhang. PhD Thesis 2016.
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
 * [Lift-Based Bidding in Ad Selection](http://wnzhang.net/share/rtb-papers/lift-bidding.pdf) by Jian Xu et al. AAAI 2016.
@@ -71,11 +72,13 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Impression Fraud in On-line Advertising via Pay-Per-View Networks](http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12305-sec13-paper_springborn.pdf) by Kevin Springborn, Paul Barford. USENIX Security Symposium 2013.
 
 ## Supply-Side Platform (SSP) Techniques
+* [Optimal Reserve Prices in Upstream Auctions: Empirical Application on Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/rpp1142-alcobendas-lisbonaA.pdf) by Miguel Angel Alcobendas, Sheide Chammas and Kuang-chih Lee. KDD 2016.
 * [A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising](http://arxiv.org/pdf/1405.5189.pdf) by Bowei Chen, Shuai Yuan and Jun Wang. ADKDD 2014.
 * [An Empirical Study of Reserve Price Optimisation in Real-Time Bidding](http://wnzhang.net/share/rtb-papers/reserve-price.pdf) by Shuai Yuan et al. KDD 2014.
 * [Information Disclosure in Real-Time Bidding Advertising Markets](http://wnzhang.net/share/rtb-papers/rtb-info.pdf) by Juanjuan Li, Yong Yuan, Rui Qin. SOLI 2014.
 
 ## Data Management Platform (DMP) Techniques
+* [Audience Expansion for Online Social Network Advertising](http://www.kdd.org/kdd2016/papers/files/adf0483-liuA.pdf) by Haishan Liu et al. KDD 2016.
 * [Implicit Look-alike Modelling in Display Ads: Transfer Collaborative Filtering to CTR ](http://wnzhang.net/share/rtb-papers/cf-ctr.pdf) by Weinan Zhang, Lingxi Chen, Jun Wang. ECIR 2016.
 * [Pleasing the advertising oracle: Probabilistic prediction from sampled, aggregated ground truth](http://wnzhang.net/share/rtb-papers/sample-pred.pdf) by Melinda Han Williams et al. ADKDD 2014.
 
