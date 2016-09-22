@@ -81,6 +81,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Audience Expansion for Online Social Network Advertising](http://www.kdd.org/kdd2016/papers/files/adf0483-liuA.pdf) by Haishan Liu et al. KDD 2016.
 * [Implicit Look-alike Modelling in Display Ads: Transfer Collaborative Filtering to CTR ](http://wnzhang.net/share/rtb-papers/cf-ctr.pdf) by Weinan Zhang, Lingxi Chen, Jun Wang. ECIR 2016.
 * [Pleasing the advertising oracle: Probabilistic prediction from sampled, aggregated ground truth](http://wnzhang.net/share/rtb-papers/sample-pred.pdf) by Melinda Han Williams et al. ADKDD 2014.
+* [Focused matrix factorization for audience selection in display advertising](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40489.pdf) by Kanagal B et al. ICDE 2013.
 
 ## Conversion Attribution
 * [Multi-Touch Attribution in Online Advertising with Survival Theory](http://wnzhang.net/share/rtb-papers/attr-survival.pdf) by Ya Zhang, Yi Wei, and Jianbiao Ren. ICDM 2014.
