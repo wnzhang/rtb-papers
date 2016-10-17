@@ -46,6 +46,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Predicting Winning Price in Real Time Bidding with Censored Data](http://wnzhang.net/share/rtb-papers/win-price-pred.pdf) by Wush Chi-Hsuan Wu, Mi-Yen Yeh, Ming-Syan Chen. KDD 2015.
 * [Handling Forecast Errors While Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/forecast-err.pdf) by Kevin J. Lang, Benjamin Moseley, Sergei Vassilvitskii. WWW 2012.
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://wnzhang.net/share/rtb-papers/bid-lands.pdf) by Ying Cui et al. KDD 2011.
+* [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
 * [Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) by Sahin Cem Geyik et al. KDD 2016.
