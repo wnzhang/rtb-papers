@@ -75,6 +75,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 ### Fraud Detection
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://wnzhang.net/share/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
 * [Impression Fraud in On-line Advertising via Pay-Per-View Networks](http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12305-sec13-paper_springborn.pdf) by Kevin Springborn, Paul Barford. USENIX Security Symposium 2013.
+* [Understanding Fraudulent Activities in Online Ad Exchanges](http://conferences.sigcomm.org/imc/2011/docs/p279.pdf) by Brett Stone-Grosset et al. IMC 2011.
 
 ## Supply-Side Platform (SSP) Techniques
 * [Optimal Reserve Prices in Upstream Auctions: Empirical Application on Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/rpp1142-alcobendas-lisbonaA.pdf) by Miguel Angel Alcobendas, Sheide Chammas and Kuang-chih Lee. KDD 2016.
