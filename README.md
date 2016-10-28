@@ -30,6 +30,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
 * [Predicting ad click-through rates via feature-based fully coupled interaction tensor factorization](http://wnzhang.net/share/rtb-papers/fctf.pdf) by Lili Shan, Lei Lin, Chengjie Sun, Xiaolong Wang. Electronic Commerce Research and Applications 2016.
 * [Cost-sensitive Learning for Utility Optimization in Online Advertising Auctions](https://arxiv.org/pdf/1603.03713.pdf) by Flavian Vasile, Damien Lefortier, Olivier Chapelle. Extension under-review of the paper presented at the Workshop on E-Commerce, NIPS 2015.
+* [User Response Learning for Directly Optimizing Campaign Performance in Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20161024/opt-ctr-bid.pdf) by Kan Ren, Weinan Zhang, Yifei Rong, Haifeng Zhang, Yong Yu, Jun Wang. CIKM 2016.
 * [A Convolutional Click Prediction Model](http://wnzhang.net/share/rtb-papers/cnn-ctr.pdf) by Qiang Liu, Feng Yu, Shu Wu, Liang Wang. CIKM 2015.
 * [Factorization Machines with Follow-The-Regularized-Leader for CTR prediction in
 Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phuong Ta. BigData 2015.
