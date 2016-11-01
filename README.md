@@ -51,6 +51,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](http://wnzhang.net/share/rtb-papers/two-pred-bid.pdf) by Chi-Chun Lin et al. CIKM 2016.
 * [Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) by Sahin Cem Geyik et al. KDD 2016.
 * [Optimal Real-Time Bidding for Display Advertising](http://discovery.ucl.ac.uk/1496878/1/weinan-zhang-phd-2016.pdf) by Weinan Zhang. PhD Thesis 2016.
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
