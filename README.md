@@ -118,6 +118,7 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 ## Datasets and Benchmarking
 * [iPinYou Global RTB Bidding Algorithm Competition Dataset](http://wnzhang.net/share/rtb-papers/ipinyou-dataset.pdf) by Hairen Liao et al. ADKDD 2014.
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
+* [Criteo Dataset for Product Recommendation / Counterfactual Learning](http://www.cs.cornell.edu/~adith/Criteo/NIPS16_Benchmark.pdf) by Damien Lefortier et al. What If workshop NIPS 2016.
 * [Criteo Conversion Logs Dataset](http://labs.criteo.com/downloads/2014-conversion-logs-dataset/) by Criteo Labs.
 * [Criteo Terabyte Click Logs](http://labs.criteo.com/downloads/download-terabyte-click-logs/) by Criteo Labs.
 * [Avazu Click Prediction](https://www.kaggle.com/c/avazu-ctr-prediction/data) by Avazu.
