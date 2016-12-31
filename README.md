@@ -26,6 +26,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
+* [Sparse Factorization Machines for Click-through Rate Prediction](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Zhen-Pan-ICDM.pdf) by Zhen Pan et al. ICDM 2016.
 * [Deep CTR Prediction in Display Advertising](http://wnzhang.net/share/rtb-papers/deep-ctr-display.pdf) by Junxuan Chen et al. MM 2016.
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
 * [Predicting ad click-through rates via feature-based fully coupled interaction tensor factorization](http://wnzhang.net/share/rtb-papers/fctf.pdf) by Lili Shan, Lei Lin, Chengjie Sun, Xiaolong Wang. Electronic Commerce Research and Applications 2016.
