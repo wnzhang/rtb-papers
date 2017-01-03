@@ -99,7 +99,8 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Causally Motivated Attribution for Online Advertising](http://wnzhang.net/share/rtb-papers/causual-conv-att.pdf). by Brian Dalessandro et al. ADKDD 2012.
 * [Data-driven Multi-touch Attribution Models](http://wnzhang.net/share/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
 
-## Ad Exchanges, Economics and Game Theory
+## Ad Exchanges, Mechanisms and Game Theory
+* [Truthfulness with Value-Maximizing Bidders: On the Limits of Approximation in Combinatorial Markets](http://dss.in.tum.de/files/bichler-research/2016_fadaei_bichler_value_bidders.pdf) by Salman Fadaei and Martin Bichler. EJOR 2016. 
 * [Repeated Auctions with Budgets in Ad Exchanges: Approximations and Design](http://wnzhang.net/share/rtb-papers/repeat-auction.pdf) by Santiago R. Balseiro, Omar Besbesy, Gabriel Y. Weintraub. Management Science 2015.
 * [Ad Exchange: Intention Driven Auction Mechanisms for Mediating Between Publishers and Advertisers](http://wnzhang.net/share/rtb-papers/adx-mec.pdf) by Rina Azoulay, Esther David. WI/IAT 2015.
 * [Pricing Externalities in Real-Time Bidding Markets](http://wnzhang.net/share/rtb-papers/rtb-pricing-ext.pdf) by Joseph Reisinger, Michael Driscoll. Machine Learning in Online Advertising.
