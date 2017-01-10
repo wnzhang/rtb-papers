@@ -68,8 +68,8 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://wnzhang.net/share/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011.
 
 ### Budget Pacing & Frequency/Recency Capping
-* [Exploring Optimal Frequency Caps in Real Time Bidding Advertising] (http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7723718) by Rui Qi et al. SocialCom 2016.
-* [Research on the Frequency Capping Issue in RTB Advertising：A Computational Experiment Approach] (http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7382507) by Rui Qin et al. CAC 2015.
+* [Exploring Optimal Frequency Caps in Real Time Bidding Advertising] (https://www.researchgate.net/publication/309588181_Exploring_Optimal_Frequency_Caps_in_Real_Time_Bidding_Advertising) by Rui Qin et al. SocialCom 2016.
+* [Research on the Frequency Capping Issue in RTB Advertising：A Computational Experiment Approach] (https://www.researchgate.net/publication/304294525_Research_on_the_frequency_capping_issue_in_RTB_advertising_A_computational_experiment_approach) by Rui Qin et al. CAC 2015.
 * [From 0.5 Million to 2.5 Million: Efficiently Scaling up Real-Time Bidding](http://wnzhang.net/share/rtb-papers/turn-throatling.pdf) by Jianqian Shen et al. ICDM 2015.
 * [Smart Pacing for Effective Online Ad Campaign Optimization](http://wnzhang.net/share/rtb-papers/throatling-pacing.pdf) by Jian Xu et al. KDD 2015.
 * [An analytical solution to the budget-pacing problem in programmatic advertising](https://www.researchgate.net/publication/283579658_An_analytical_solution_to_the_budget-pacing_problem_in_programmatic_advertising) by Joaquin Fernandez-Tapia. Working paper.
@@ -84,11 +84,13 @@ Display Advertising](http://wnzhang.net/share/rtb-papers/fm-ftrl.pdf) by Anh-Phu
 * [Understanding Fraudulent Activities in Online Ad Exchanges](http://conferences.sigcomm.org/imc/2011/docs/p279.pdf) by Brett Stone-Grosset et al. IMC 2011.
 
 ### Market Segmentation
-* [Optimizing Market Segmentation Granularity in RTB Advertising: A Computational Experimental Study](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7723720) by Rui Qin et al. SocialCom 2016.
-* [Analyzing the Segmentation Granularity of RTB Advertising Markets：A Computational Experiment Approach](http://download.springer.com/static/pdf/617/chp%253A10.1007%252F978-981-10-0080-5_21.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-10-0080-5_21&token2=exp=1484033973~acl=%2Fstatic%2Fpdf%2F617%2Fchp%25253A10.1007%25252F978-981-10-0080-5_21.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-981-10-0080-5_21*~hmac=dbb7f0ebf49ed180c796d1b4e821c22cb487449f772a73b6883fa505c2227b57) by Rui Qin et al. SMP 2015.
+* [Optimizing the Segmentation Granularity for RTB Advertising Markets with a Two-stage Resale Model](https://www.researchgate.net/publication/312173822_Optimizing_the_Segmentation_Granularity_for_RTB_Advertising_Markets_with_a_Two-stage_Resale_Model) By Rui Qin et al. SMC 2016.
+* [Optimizing Market Segmentation Granularity in RTB Advertising: A Computational Experimental Study](https://www.researchgate.net/publication/309588977_Optimizing_Market_Segmentation_Granularity_in_RTB_Advertising_A_Computational_Experimental_Study) by Rui Qin et al. SocialCom 2016.
+* [Analyzing the Segmentation Granularity of RTB Advertising Markets：A Computational Experiment Approach](https://www.researchgate.net/publication/300238564_Analyzing_the_Segmentation_Granularity_of_RTB_Advertising_Markets_A_Computational_Experiment_Approach) by Rui Qin et al. SMP 2015.
 
 ## Supply-Side Platform (SSP) Techniques
 * [Optimal Reserve Prices in Upstream Auctions: Empirical Application on Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/rpp1142-alcobendas-lisbonaA.pdf) by Miguel Angel Alcobendas, Sheide Chammas and Kuang-chih Lee. KDD 2016.
+* [Optimal Allocation of Ad Inventory in Real-Time Bidding Advertising Markets](https://www.researchgate.net/publication/312173826_Optimal_Allocation_of_Ad_Inventory_in_Real-Time_Bidding_Advertising_Markets) by Juanjuan Li et al. SMC 2016.
 * [A Dynamic Pricing Model for Unifying Programmatic Guarantee and Real-Time Bidding in Display Advertising](http://arxiv.org/pdf/1405.5189.pdf) by Bowei Chen, Shuai Yuan and Jun Wang. ADKDD 2014.
 * [An Empirical Study of Reserve Price Optimisation in Real-Time Bidding](http://wnzhang.net/share/rtb-papers/reserve-price.pdf) by Shuai Yuan et al. KDD 2014.
 * [Information Disclosure in Real-Time Bidding Advertising Markets](http://wnzhang.net/share/rtb-papers/rtb-info.pdf) by Juanjuan Li, Yong Yuan, Rui Qin. SOLI 2014.
