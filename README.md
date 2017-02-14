@@ -27,6 +27,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ### CTR/CVR Estimation
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding (RTB)](https://arxiv.org/pdf/1702.00855v1.pdf) by Enno Shioji, Masayuki Arai. ArXiv 2017.
+* [Field-aware Factorization Machines in a Real-world Online Advertising System](https://arxiv.org/pdf/1701.04099.pdf) by Yuchin Juan, Damien Lefortier, Olivier Chapelle. ArXiv 2017.
 * [Sparse Factorization Machines for Click-through Rate Prediction](http://staff.ustc.edu.cn/~cheneh/paper_pdf/2016/Zhen-Pan-ICDM.pdf) by Zhen Pan et al. ICDM 2016.
 * [Deep CTR Prediction in Display Advertising](http://wnzhang.net/share/rtb-papers/deep-ctr-display.pdf) by Junxuan Chen et al. MM 2016.
 * [Bid-aware Gradient Descent for Unbiased Learning with Censored Data in Display Advertising](http://wnzhang.net/papers/unbias-kdd.pdf) by Weinan Zhang, Tianxiong Zhou, Jun Wang, Jian Xu. KDD 2016.
