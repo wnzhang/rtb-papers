@@ -55,6 +55,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Optimized Cost per Click in Taobao Display Advertising](https://arxiv.org/pdf/1703.02091.pdf) by Han Zhu et al. ArXiv 2017.
 * [Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget](http://wnzhang.net/share/rtb-papers/two-pred-bid.pdf) by Chi-Chun Lin et al. CIKM 2016.
 * [Joint Optimization of Multiple Performance Metrics in Online Video Advertising](http://www.kdd.org/kdd2016/papers/files/adp0722-geyikA.pdf) by Sahin Cem Geyik et al. KDD 2016.
 * [Optimal Real-Time Bidding for Display Advertising](http://discovery.ucl.ac.uk/1496878/1/weinan-zhang-phd-2016.pdf) by Weinan Zhang. PhD Thesis 2016.
