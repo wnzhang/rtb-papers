@@ -83,6 +83,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Real Time Bid Optimization with Smooth Budget Delivery in Online Advertising](http://wnzhang.net/share/rtb-papers/budget-smooth.pdf) by Kuang-Chih Lee, Ali Jalali, Ali Dasdan. ADKDD 2013.
 * [Budget Pacing for Targeted Online Advertisements at LinkedIn](http://wnzhang.net/share/rtb-papers/linkedin-pacing.pdf) by Deepak Agarwal et al. KDD 2014.
 * [Frequency Capping in Online Advertising](http://theory.epfl.ch/moranfe/Publications/WADS2011.pdf) by Niv Buchbinder et al. WADS 2011.
+* [Adaptive bidding for display advertising](http://www.arpitaghosh.com/papers/fp632-ghosh.pdf ) by Ghosh, A., Rubinstein, B. I, Vassilvitskii, S., and Zinkevich, M.  2009
 
 ### Fraud Detection
 * [Using Co-Visitation Networks For Classifying Non-Intentional Traffic](http://wnzhang.net/share/rtb-papers/co-visit-fraud.pdf) by Ori Stitelman et al. Dstillery 2013.
