@@ -133,6 +133,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Finding Needle in a Million Metrics: Anomaly Detection in a Large-scale Computational Advertising Platform](http://arxiv.org/pdf/1602.07057.pdf) by Bowen Zhou, Shahriar Shariat. TargetAd 2016.
 
 ## Datasets and Benchmarking
+* [YOYI RTB datasets (with bidding information)](http://goo.gl/9r8DtM) by Kan Ren and Yifei Rong et al. CIKM 2016.
 * [iPinYou Global RTB Bidding Algorithm Competition Dataset](http://wnzhang.net/share/rtb-papers/ipinyou-dataset.pdf) by Hairen Liao et al. ADKDD 2014.
 * [Real-Time Bidding Benchmarking with iPinYou Dataset](http://arxiv.org/abs/1407.7073) by Weinan Zhang et al. ArXiv 2014.
 * [Criteo Dataset for Product Recommendation / Counterfactual Learning](http://www.cs.cornell.edu/~adith/Criteo/NIPS16_Benchmark.pdf) by Damien Lefortier et al. What If workshop NIPS 2016.
