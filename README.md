@@ -55,6 +55,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Profit Maximization for Online Advertising Demand-Side Platforms](https://arxiv.org/pdf/1706.01614.pdf) by Paul Grigas et al. ArXiv 2017.
 * [Real-Time Bidding by Reinforcement Learning in Display Advertising](http://wnzhang.net/papers/rlb.pdf) by Han Cai et al. WSDM 2017.
 * [Managing Risk of Bidding in Display Advertising](http://wnzhang.net/papers/risk-bid.pdf) by Haifeng Zhang et al. WSDM 2017.
 * [Optimized Cost per Click in Taobao Display Advertising](https://arxiv.org/pdf/1703.02091.pdf) by Han Zhu et al. ArXiv 2017.
