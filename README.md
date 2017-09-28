@@ -26,6 +26,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
+* [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf) by Guorui Zhou et al. ArXiv 2017.
+* [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247.pdf) by Huifeng Guo et al. IJCAI 2017
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction](https://arxiv.org/pdf/1704.05194.pdf)  by Kun Gai, Xiaoqiang Zhu, Han Li, et al. Arxiv 2017.
 * [SEM: A Softmax-based Ensemble Model for CTR Estimation in Real-Time Bidding Advertising](http://wnzhang.net/share/rtb-papers/softmax-ensemble.pdf) by Wen-Yuan Zhu et al. BigComp 2017.
 * [Neural Feature Embedding for User Response Prediction in Real-Time Bidding (RTB)](https://arxiv.org/pdf/1702.00855v1.pdf) by Enno Shioji, Masayuki Arai. ArXiv 2017.
