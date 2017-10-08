@@ -46,6 +46,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Deep Learning over Multi-field Categorical Data: A Case Study on User Response Prediction](http://wnzhang.net/share/rtb-papers/deep-ctr.pdf) by Weinan Zhang, Tianming Du, Jun Wang. ECIR 2016.
 * [Offline Evaluation of Response Prediction in Online Advertising Auctions](http://wnzhang.net/share/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
 * [Predicting Response in Mobile Advertising with Hierarchical Importance-Aware Factorization Machine](http://wnzhang.net/share/rtb-papers/fm-ctr.pdf) by Richard J. Oentaryo et al. WSDM 2014.
+* [Scalable Hierarchical Multitask Learning Algorithms for Conversion Optimization in Display Advertising](https://pdfs.semanticscholar.org/fc11/8ce8cf852ccd10cae0fcf031cb5c238f69c0.pdf) by Amr Ahmed et al. WSDM 2014.
 * [Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012. 
 * [Scalable Hands-Free Transfer Learning for Online Advertising](http://wnzhang.net/share/rtb-papers/transfer-ctr.pdf) by Brian Dalessandro et al. KDD 2014. 
 * [Evaluating and Optimizing Online Advertising: Forget the click, but there are good proxies](http://wnzhang.net/share/rtb-papers/forget-click.pdf) by Brian Dalessandro et al. SSRN 2012.
