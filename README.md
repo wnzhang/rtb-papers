@@ -62,6 +62,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Improving Real-Time Bidding Using a Constrained Markov Decision Process](http://wnzhang.net/share/rtb-papers/rtb-cmdp.pdf) by Manxing Du et al. ADMA 2017.
 * [Attribution Modeling Increases Efficiency of Bidding in Display Advertising](https://arxiv.org/pdf/1707.06409.pdf) by Eustache Diemert et al. ADKDD 2017.
 * [Profit Maximization for Online Advertising Demand-Side Platforms](https://arxiv.org/pdf/1706.01614.pdf) by Paul Grigas et al. ArXiv 2017.
 * [Real-Time Bidding by Reinforcement Learning in Display Advertising](http://wnzhang.net/papers/rlb.pdf) by Han Cai et al. WSDM 2017.
