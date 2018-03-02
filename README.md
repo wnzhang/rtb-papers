@@ -3,7 +3,7 @@
 This is a collection of research and review papers of real-time bidding (RTB) based display advertising techniques. The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Weinan Zhang](http://wnzhang.net).
 
 **You are more than welcome to update this list!** <br>
-If you find a paper about RTB techniques or review which is not listed here, please 
+If you find a paper about RTB techniques or review which is not listed here, please
 * fork this repository, add it and merge back;
 * or email [Weinan Zhang](http://wnzhang.net) (wnzhang [AT] sjtu.edu.cn);
 * or report an issue here.
@@ -51,8 +51,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Offline Evaluation of Response Prediction in Online Advertising Auctions](http://wnzhang.net/share/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
 * [Predicting Response in Mobile Advertising with Hierarchical Importance-Aware Factorization Machine](http://wnzhang.net/share/rtb-papers/fm-ctr.pdf) by Richard J. Oentaryo et al. WSDM 2014.
 * [Scalable Hierarchical Multitask Learning Algorithms for Conversion Optimization in Display Advertising](https://pdfs.semanticscholar.org/fc11/8ce8cf852ccd10cae0fcf031cb5c238f69c0.pdf) by Amr Ahmed et al. WSDM 2014.
-* [Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012. 
-* [Scalable Hands-Free Transfer Learning for Online Advertising](http://wnzhang.net/share/rtb-papers/transfer-ctr.pdf) by Brian Dalessandro et al. KDD 2014. 
+* [Estimating Conversion Rate in Display Advertising from Past Performance Data](http://wnzhang.net/share/rtb-papers/cvr-est.pdf) by Kuang-chih Lee et al. KDD 2012.
+* [Scalable Hands-Free Transfer Learning for Online Advertising](http://wnzhang.net/share/rtb-papers/transfer-ctr.pdf) by Brian Dalessandro et al. KDD 2014.
 * [Evaluating and Optimizing Online Advertising: Forget the click, but there are good proxies](http://wnzhang.net/share/rtb-papers/forget-click.pdf) by Brian Dalessandro et al. SSRN 2012.
 * [Modeling Delayed Feedback in Display Advertising](http://wnzhang.net/share/rtb-papers/delayed-feedback.pdf) by Olivier Chapelle. KDD 2014.
 * [Ad Click Prediction: a View from the Trenches](https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf) by H. Brendan McMahan. KDD 2013.
@@ -119,6 +119,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Information Disclosure in Real-Time Bidding Advertising Markets](http://wnzhang.net/share/rtb-papers/rtb-info.pdf) by Juanjuan Li, Yong Yuan, Rui Qin. SOLI 2014.
 
 ## Data Management Platform (DMP) Techniques
+* [A Sub-linear, Massive-scale Look-alike Audience Extension System](http://proceedings.mlr.press/v53/ma16.html)
+  by Qiang Ma, Musen Wen, Zhen Xia, Datong Chen. KDD 2016 / PMLR 2016
 * [Audience Expansion for Online Social Network Advertising](http://www.kdd.org/kdd2016/papers/files/adf0483-liuA.pdf) by Haishan Liu et al. KDD 2016.
 * [Implicit Look-alike Modelling in Display Ads: Transfer Collaborative Filtering to CTR ](http://wnzhang.net/share/rtb-papers/cf-ctr.pdf) by Weinan Zhang, Lingxi Chen, Jun Wang. ECIR 2016.
 * [Pleasing the advertising oracle: Probabilistic prediction from sampled, aggregated ground truth](http://wnzhang.net/share/rtb-papers/sample-pred.pdf) by Melinda Han Williams et al. ADKDD 2014.
@@ -131,7 +133,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Data-driven Multi-touch Attribution Models](http://wnzhang.net/share/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
 
 ## Ad Exchanges, Mechanisms and Game Theory
-* [Truthfulness with Value-Maximizing Bidders: On the Limits of Approximation in Combinatorial Markets](http://dss.in.tum.de/files/bichler-research/2016_fadaei_bichler_value_bidders.pdf) by Salman Fadaei and Martin Bichler. EJOR 2016. 
+* [Truthfulness with Value-Maximizing Bidders: On the Limits of Approximation in Combinatorial Markets](http://dss.in.tum.de/files/bichler-research/2016_fadaei_bichler_value_bidders.pdf) by Salman Fadaei and Martin Bichler. EJOR 2016.
 * [Repeated Auctions with Budgets in Ad Exchanges: Approximations and Design](http://wnzhang.net/share/rtb-papers/repeat-auction.pdf) by Santiago R. Balseiro, Omar Besbesy, Gabriel Y. Weintraub. Management Science 2015.
 * [Ad Exchange: Intention Driven Auction Mechanisms for Mediating Between Publishers and Advertisers](http://wnzhang.net/share/rtb-papers/adx-mec.pdf) by Rina Azoulay, Esther David. WI/IAT 2015.
 * [Pricing Externalities in Real-Time Bidding Markets](http://wnzhang.net/share/rtb-papers/rtb-pricing-ext.pdf) by Joseph Reisinger, Michael Driscoll. Machine Learning in Online Advertising.
@@ -158,5 +160,5 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Avazu Click Prediction](https://www.kaggle.com/c/avazu-ctr-prediction/data) by Avazu.
 
 <!---
-* [](http://wnzhang.net/share/rtb-papers/). by . 
+* [](http://wnzhang.net/share/rtb-papers/). by .
 -->
