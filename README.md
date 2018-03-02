@@ -26,7 +26,10 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
-* [Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123.pdf) by Ruoxi Wang et al. AdKDD & TargetAd 2017.
+* [Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123.pdf) by Ruoxi Wang et al. ADKDD & TargetAd 2017.
+* [Ranking and Calibrating Click-Attributed Purchases in Performance Display Advertising](https://drive.google.com/file/d/0BwF-hgLDpCD6UTlYLXBZX1BwWHc/view) by Sougata Chaudhuri et al. ADKDD 2017.
+* [A Practical Framework of Conversion Rate Prediction for Online Display Advertising](https://drive.google.com/file/d/0BwF-hgLDpCD6eENMRFo2dzF4NEk/view) by Quan Lu et al. ADKDD 2017.
+* [An Ensemble-Based Approach to Click-Through Rate Prediction for Promoted Listings at Etsy](https://arxiv.org/pdf/1711.01377.pdf) by Kamelia Aryafar et al. ADKDD 2017.
 * [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf) by Guorui Zhou et al. ArXiv 2017.
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247.pdf) by Huifeng Guo et al. IJCAI 2017
 * [Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction](https://arxiv.org/pdf/1704.05194.pdf)  by Kun Gai, Xiaoqiang Zhu, Han Li, et al. Arxiv 2017.
