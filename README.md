@@ -26,7 +26,6 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
-* [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018.
 * [Deep & Cross Network for Ad Click Predictions](https://arxiv.org/pdf/1708.05123.pdf) by Ruoxi Wang et al. ADKDD & TargetAd 2017.
 * [Ranking and Calibrating Click-Attributed Purchases in Performance Display Advertising](https://drive.google.com/file/d/0BwF-hgLDpCD6UTlYLXBZX1BwWHc/view) by Sougata Chaudhuri et al. ADKDD 2017.
 * [A Practical Framework of Conversion Rate Prediction for Online Display Advertising](https://drive.google.com/file/d/0BwF-hgLDpCD6eENMRFo2dzF4NEk/view) by Quan Lu et al. ADKDD 2017.
@@ -66,6 +65,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018.
 * [LADDER: A Human-Level Bidding Agent for Large-Scale Real-Time Online Auctions](https://arxiv.org/pdf/1708.05565.pdf) by Yu Wang et al. ArXiv 2017.
 * [Improving Real-Time Bidding Using a Constrained Markov Decision Process](http://wnzhang.net/share/rtb-papers/rtb-cmdp.pdf) by Manxing Du et al. ADMA 2017.
 * [Attribution Modeling Increases Efficiency of Bidding in Display Advertising](https://arxiv.org/pdf/1707.06409.pdf) by Eustache Diemert et al. ADKDD 2017.
