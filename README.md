@@ -66,6 +66,9 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 
 ### Bidding Strategies
 * [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018.
+* [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.08365.pdf) by Di Wu et al. ArXiv 2018.
+* [Real-Time Bidding with Multi-Agent Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.09756.pdf) by Junqi Jin et al. ArXiv 2018.
+* [Deep Reinforcement Learning for Sponsored Search Real-time Bidding](https://arxiv.org/pdf/1803.00259.pdf) by Jun Zhao et al. ArXiv 2018.
 * [LADDER: A Human-Level Bidding Agent for Large-Scale Real-Time Online Auctions](https://arxiv.org/pdf/1708.05565.pdf) by Yu Wang et al. ArXiv 2017.
 * [Improving Real-Time Bidding Using a Constrained Markov Decision Process](http://wnzhang.net/share/rtb-papers/rtb-cmdp.pdf) by Manxing Du et al. ADMA 2017.
 * [Attribution Modeling Increases Efficiency of Bidding in Display Advertising](https://arxiv.org/pdf/1707.06409.pdf) by Eustache Diemert et al. ADKDD 2017.
