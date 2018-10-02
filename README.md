@@ -135,6 +135,8 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Focused matrix factorization for audience selection in display advertising](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40489.pdf) by Kanagal B et al. ICDE 2013.
 
 ## Conversion Attribution
+* [Learning Multi-touch Conversion Attribution with Dual-attention Mechanisms for Online Advertising](https://arxiv.org/abs/1808.03737) by Kan Ren, Yuchen Fang, Weinan Zhang, et al. CIKM 2018.
+* [Additional Multi-Touch Attribution for Online Advertising](http://www.saying.ren/paper/ji-amta.pdf) by Wendi Ji, et al. AAAI 2017.
 * [Multi-Touch Attribution in Online Advertising with Survival Theory](http://wnzhang.net/share/rtb-papers/attr-survival.pdf) by Ya Zhang, Yi Wei, and Jianbiao Ren. ICDM 2014.
 * [Multi-Touch Attribution Based Budget Allocation in Online Advertising](http://wnzhang.net/share/rtb-papers/mta-budget-allocation.pdf) by Sahin Cem Geyik, Abhishek Saxena, Ali Dasdan. ADKDD 2014.
 * [Causally Motivated Attribution for Online Advertising](http://wnzhang.net/share/rtb-papers/causual-conv-att.pdf). by Brian Dalessandro et al. ADKDD 2012.
