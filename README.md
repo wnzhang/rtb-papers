@@ -62,6 +62,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Practical Lessons from Predicting Clicks on Ads at Facebook](http://wnzhang.net/share/rtb-papers/fb-ad-ctr.pdf) by Xinran He et al. ADKDD 2014.
 
 ### Bid Landscape
+* [Deep Landscape Forecasting for Real-time Bidding Advertising](https://arxiv.org/abs/1905.03028) by Kan Ren, et al. KDD 2019.
 * [Predicting Winning Price in Real Time Bidding with Censored Data](http://wnzhang.net/share/rtb-papers/win-price-pred.pdf) by Wush Chi-Hsuan Wu, Mi-Yen Yeh, Ming-Syan Chen. KDD 2015.
 * [Handling Forecast Errors While Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/forecast-err.pdf) by Kevin J. Lang, Benjamin Moseley, Sergei Vassilvitskii. WWW 2012.
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://wnzhang.net/share/rtb-papers/bid-lands.pdf) by Ying Cui et al. KDD 2011.
