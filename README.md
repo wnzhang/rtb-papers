@@ -26,6 +26,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 ## Demand-Side Platform (DSP) Techniques
 
 ### CTR/CVR Estimation
+* [Conversion Prediction Using Multi-task Conditional Attention Networks to Support the Creation of Effective Ad Creatives](https://arxiv.org/pdf/1905.07289.pdf) by Shunsuke Kitada, Hitoshi Iyatomi and Yoshifumi Seki. KDD 2019.
 * [A Nonparametric Delayed Feedback Model for Conversion Rate Prediction](https://arxiv.org/pdf/1802.00255.pdf) by Yuya Yoshikawa and Yusaku Imai. ArXiv 2018.
 * [Robust Factorization Machines for User Response Prediction](http://wnzhang.net/share/rtb-papers/rfm-www.pdf) by Surabhi Punjabi and Priyanka Bhatt. WWW 2018.
 * [Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising](http://wnzhang.net/share/rtb-papers/fwfm-www.pdf) by Junwei Pan et al. WWW 2018.
