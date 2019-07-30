@@ -70,6 +70,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](https://dl.acm.org/citation.cfm?id=3330749) by 	Nicolas Grislain et al. KDD 2019.
 * [Optimal Bidding Strategy for Brand Advertising](https://www.ijcai.org/proceedings/2018/0059.pdf) by Takanori Maehara et al. IJCAI 2018.
 * [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018.
 * [Budget Constrained Bidding by Model-free Reinforcement Learning in Display Advertising](https://arxiv.org/pdf/1802.08365.pdf) by Di Wu et al. ArXiv 2018.
