@@ -12,7 +12,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://arxiv.org/abs/1610.03013) by Jun Wang, Weinan Zhang and Shuai Yuan. ArXiv 2016.
 
 ## Tutorials
-* [Learning, Prediction and Optimisation in RTB Display Advertising](http://www.optimalrtb.com/cikm16/) by Weinan Zhang and Jian Xu. CIKM 2016.
+* [Learning, Prediction and Optimisation in RTB Display Advertising](http://wnzhang.net/slides/cikm-16-rtb-full.pdf) by Weinan Zhang and Jian Xu. CIKM 2016.
 * [Real-Time Bidding based Display Advertising: Mechanisms and Algorithms](http://tutorial.computational-advertising.org/) by Jun Wang, Shuai Yuan and Weinan Zhang. ECIR 2016.
 * [Real-Time Bidding: A New Frontier of Computational Advertising Research](http://tutorial-wsdm-2015.computational-advertising.org/) by Shuai Yuan and Jun Wang. WSDM 2015.
 * [Research Frontier of Real-Time Bidding based Display Advertising](http://wnzhang.net/slides/rtb-frontier-2015.pdf) by Weinan Zhang. Beijing 2015.
