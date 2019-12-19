@@ -53,7 +53,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Offline Evaluation of Response Prediction in Online Advertising Auctions](http://wnzhang.net/share/rtb-papers/ctr-bid.pdf) by Olivier Chapelle. WWW 2015.
 * [Simple and Scalable Response Prediction for Display Advertising](http://wnzhang.net/share/rtb-papers/ctr-chapelle.pdf) by Olivier Chapelle	Criteo, Eren Manavoglu, Romer Rosales. ACM TIST 2014.
 * [Predicting Response in Mobile Advertising with Hierarchical Importance-Aware Factorization Machine](http://wnzhang.net/share/rtb-papers/fm-ctr.pdf) by Richard J. Oentaryo et al. WSDM 2014.
-* [Scalable Hierarchical Multitask Learning Algorithms for Conversion Optimization in Display Advertising](https://pdfs.semanticscholar.org/fc11/8ce8cf852ccd10cae0fcf031cb5c238f69c0.pdf) by Amr Ahmed et al. WSDM 2014.
+* [Scalable Hierarchical Multitask Learning Algorithms for Conversion Optimization in Display Advertising](https://research.google/pubs/pub42498/) by Amr Ahmed et al. WSDM 2014.
 * [Scalable Hands-Free Transfer Learning for Online Advertising](http://wnzhang.net/share/rtb-papers/transfer-ctr.pdf) by Brian Dalessandro et al. KDD 2014.
 * [Modeling Delayed Feedback in Display Advertising](http://wnzhang.net/share/rtb-papers/delayed-feedback.pdf) by Olivier Chapelle. KDD 2014.
 * [Practical Lessons from Predicting Clicks on Ads at Facebook](http://wnzhang.net/share/rtb-papers/fb-ad-ctr.pdf) by Xinran He et al. ADKDD 2014.
