@@ -70,6 +70,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Bid Optimization by Multivariable Control in Display Advertising](https://dl.acm.org/doi/pdf/10.1145/3292500.3330681) by Xun Yang et al. KDD 2019.
 * [Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](https://dl.acm.org/citation.cfm?id=3330749) by 	Nicolas Grislain et al. KDD 2019.
 * [Optimal Bidding Strategy for Brand Advertising](https://www.ijcai.org/proceedings/2018/0059.pdf) by Takanori Maehara et al. IJCAI 2018.
 * [Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising](https://arxiv.org/abs/1803.02194) by Kan Ren et al. TKDE 2018.
@@ -99,6 +100,11 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Real-Time Bidding Algorithms for Performance-Based Display Ad Allocation](http://wnzhang.net/share/rtb-papers/rtb-perf-bid.pdf) by Ye Chen et al. KDD 2011.
 
 ### Budget Pacing & Frequency/Recency Capping
+* [An Effective Budget Management Framework for Real-Time Bidding in Online Advertising](https://ieeexplore.ieee.org/abstract/document/8976169) by Mengjuan Liu et al. IEEE Access 2020.
+* [Impression Pacing for Jobs Marketplace at LinkedIn](https://dl.acm.org/doi/pdf/10.1145/3340531.3412711) by Sahin Cem Geyik et al. CIKM 2020.
+* [Dynamic Bidding Strategies with Multivariate Feedback Control for Multiple Goals in Display Advertising](https://arxiv.org/ftp/arxiv/papers/2007/2007.00426.pdf) by Michael Tashman et al. ArXiv 2020.
+* [Multiplicative Pacing Equilibria in Auction Markets](https://arxiv.org/abs/1706.07151) by Vincent Conitzer et al. ArXiv 2020.
+* [Soft Frequency Capping for Improved Ad Click Prediction in Yahoo Gemini Native](https://dl.acm.org/doi/pdf/10.1145/3357384.3357801) by Michal Aharon et al. CIKM 2019.
 * [Exploring Optimal Frequency Caps in Real Time Bidding Advertising](https://www.researchgate.net/publication/309588181_Exploring_Optimal_Frequency_Caps_in_Real_Time_Bidding_Advertising) by Rui Qin et al. SocialCom 2016.
 * [Research on the Frequency Capping Issue in RTB Advertising：A Computational Experiment Approach](https://www.researchgate.net/publication/304294525_Research_on_the_frequency_capping_issue_in_RTB_advertising_A_computational_experiment_approach) by Rui Qin et al. CAC 2015.
 * [From 0.5 Million to 2.5 Million: Efficiently Scaling up Real-Time Bidding](http://wnzhang.net/share/rtb-papers/turn-throatling.pdf) by Jianqian Shen et al. ICDM 2015.
