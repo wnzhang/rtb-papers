@@ -153,6 +153,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Data-driven Multi-touch Attribution Models](http://wnzhang.net/share/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
 
 ## Ad Exchanges, Mechanisms and Game Theory
+* [An Efficient Deep Distribution Network for Bid Shading in First-Price Auctions](https://arxiv.org/pdf/2107.06650.pdf) by Tian Zhou et al. KDD 2021.
 * [Truthfulness with Value-Maximizing Bidders: On the Limits of Approximation in Combinatorial Markets](http://dss.in.tum.de/files/bichler-research/2016_fadaei_bichler_value_bidders.pdf) by Salman Fadaei and Martin Bichler. EJOR 2016.
 * [Repeated Auctions with Budgets in Ad Exchanges: Approximations and Design](http://wnzhang.net/share/rtb-papers/repeat-auction.pdf) by Santiago R. Balseiro, Omar Besbesy, Gabriel Y. Weintraub. Management Science 2015.
 * [Ad Exchange: Intention Driven Auction Mechanisms for Mediating Between Publishers and Advertisers](http://wnzhang.net/share/rtb-papers/adx-mec.pdf) by Rina Azoulay, Esther David. WI/IAT 2015.
