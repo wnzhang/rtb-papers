@@ -71,7 +71,6 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
-
 * [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising](https://dl.acm.org/doi/10.1145/3488560.3498373) by Chao Wen et al. WSDM 2022.
 * [ROI-Constrained Bidding via Curriculum-Guided Bayesian Reinforcement Learning](https://doi.org/10.1145/3534678.3539211) by Haozhe Wang et al. KDD 2022.
 * [An Efficient Deep Distribution Network for Bid Shading in First-Price Auctions](https://dl.acm.org/doi/10.1145/3447548.3467167) by Tian Zhou et al. KDD 2021.
@@ -82,12 +81,12 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Optimized Cost per Mille in Feeds Advertising](https://dl.acm.org/doi/pdf/10.5555/3398761.3398918) by Pingzhong Tang et al. AAMAS 2020.
 * [Unbiased Lift-based Bidding System](http://arxiv.org/abs/2007.04002) by Daisuke Moriwaki et al. ArXiv 2020.
 * [Budget-Constrained Real-Time Bidding Optimization: Multiple Predictors Make It Better](https://dl.acm.org/doi/10.1145/3375393) by Chi-Chun Lin et al. TKDD 2020.
-* [Feedback Control in Programmatic Advertising: The Frontier of Optimization in Real-Time Bidding](https://ieeexplore.ieee.org/document/9199371/) by Niklas Karlsson et al. IEEE Control Systems. 2020.
 * [Learning to Bid Optimally and Efficiently in Adversarial First-price Auctions](http://arxiv.org/abs/2007.04568) by Yanjun Han et al. Arxiv 2020.
 * [Bid Shading in The Brave New World of First-Price Auctions](https://dl.acm.org/doi/10.1145/3340531.3412689) by Djordje Gligorijevic et al. CIKM 2020.
 * [Scalable Multi-objective Optimization in Programmatic Advertising via Feedback Control](https://ieeexplore.ieee.org/document/9683668) by Niklas Karlsson et al. CDC 2020.
 * [Reinforcement Learning with Sequential Information Clustering in Real-Time Bidding](https://dl.acm.org/doi/10.1145/3357384.3358027) by Junwei Lu et al. CIKM 2019.
 * [AiAds: Automated and Intelligent Advertising System for Sponsored Search](https://dl.acm.org/doi/10.1145/3292500.3330782) by Xiao Yang et al. KDD 2019.
+* [Feedback Control in Programmatic Advertising: The Frontier of Optimization in Real-Time Bidding](http://wnzhang.net/share/rtb-papers/fc-bidding.pdf) by Niklas Karlsson. IEEE Control Systems Magazine 2020.
 * [Bid Optimization by Multivariable Control in Display Advertising](https://dl.acm.org/doi/pdf/10.1145/3292500.3330681) by Xun Yang et al. KDD 2019.
 * [Recurrent Neural Networks for Stochastic Control in Real-Time Bidding](https://dl.acm.org/citation.cfm?id=3330749) by Nicolas Grislain et al. KDD 2019.
 * [Optimal Bidding Strategy for Brand Advertising](https://www.ijcai.org/proceedings/2018/0059.pdf) by Takanori Maehara et al. IJCAI 2018.
@@ -172,6 +171,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Data-driven Multi-touch Attribution Models](http://wnzhang.net/share/rtb-papers/data-conv-att.pdf). by Xuhui Shao, Lexin Li. KDD 2011.
 
 ## Ad Exchanges, Mechanisms and Game Theory
+
 * [Optimal Mechanisms for Value Maximizers with Budget Constraints via Target Clipping](https://doi.org/10.1145/3490486.3538333) by Santiago R. Balseiro et al. EC 2022.
 * [Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising](http://arxiv.org/abs/2012.02930) by Zhilin Zhang et al. ArXiv 2021.
 * [Boosted Second Price Auctions: Revenue Optimization for Heterogeneous Bidders](https://dl.acm.org/doi/10.1145/3447548.3467454) by Negin Golrezaei. KDD 2021.
