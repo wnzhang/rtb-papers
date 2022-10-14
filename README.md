@@ -83,7 +83,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Budget-Constrained Real-Time Bidding Optimization: Multiple Predictors Make It Better](https://dl.acm.org/doi/10.1145/3375393) by Chi-Chun Lin et al. TKDD 2020.
 * [Learning to Bid Optimally and Efficiently in Adversarial First-price Auctions](http://arxiv.org/abs/2007.04568) by Yanjun Han et al. Arxiv 2020.
 * [Bid Shading in The Brave New World of First-Price Auctions](https://dl.acm.org/doi/10.1145/3340531.3412689) by Djordje Gligorijevic et al. CIKM 2020.
-* [Scalable Multi-objective Optimization in Programmatic Advertising via Feedback Control](https://ieeexplore.ieee.org/document/9683668) by Niklas Karlsson et al. CDC 2020.
+* [Scalable Multi-objective Optimization in Programmatic Advertising via Feedback Control](https://ieeexplore.ieee.org/document/9683668) by Niklas Karlsson. CDC 2021.
 * [Reinforcement Learning with Sequential Information Clustering in Real-Time Bidding](https://dl.acm.org/doi/10.1145/3357384.3358027) by Junwei Lu et al. CIKM 2019.
 * [AiAds: Automated and Intelligent Advertising System for Sponsored Search](https://dl.acm.org/doi/10.1145/3292500.3330782) by Xiao Yang et al. KDD 2019.
 * [Feedback Control in Programmatic Advertising: The Frontier of Optimization in Real-Time Bidding](http://wnzhang.net/share/rtb-papers/fc-bidding.pdf) by Niklas Karlsson. IEEE Control Systems Magazine 2020.
