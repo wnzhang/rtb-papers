@@ -71,6 +71,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ### Bidding Strategies
+* [Risk-Aware Bid Optimization for Online Display Advertisement](https://dl.acm.org/doi/10.1145/3511808.3557436) by Rui Fan, Erick Delage. CIKM 2022
 * [A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising](https://dl.acm.org/doi/10.1145/3488560.3498373) by Chao Wen et al. WSDM 2022.
 * [ROI-Constrained Bidding via Curriculum-Guided Bayesian Reinforcement Learning](https://doi.org/10.1145/3534678.3539211) by Haozhe Wang et al. KDD 2022.
 * [An Efficient Deep Distribution Network for Bid Shading in First-Price Auctions](https://dl.acm.org/doi/10.1145/3447548.3467167) by Tian Zhou et al. KDD 2021.
