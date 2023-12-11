@@ -18,7 +18,7 @@ If you find a paper about RTB techniques or review which is not listed here, ple
 * [Research Frontier of Real-Time Bidding based Display Advertising](http://wnzhang.net/slides/rtb-frontier-2015.pdf) by Weinan Zhang. Beijing 2015.
 
 ## Review Papers
-
+* [A Survey on Bid Optimization in Real-Time Bidding Display Advertising](https://apex.sjtu.edu.cn/public/files/members/20231211/2023-rtb-bidding-survey.pdf) by Weitong Ou, Bo Chen, Xinyi Dai, Weinan Zhang, Weiwen Liu, Ruiming Tang, Yong Yu. TKDD 2023.
 * [A Survey on Real Time Bidding Advertising](http://wnzhang.net/share/rtb-papers/rtb-survey.pdf) by Yong Yuan. Service Operations and Logistics 2014.
 * [Real-time Bidding for Online Advertising: Measurement and Analysis](http://wnzhang.net/share/rtb-papers/rtb-analysis.pdf) by Shuai Yuan, Jun Wang, Xiaoxue Zhao. ADKDD 2013.
 * [Ad Exchanges: Research Issues](http://wnzhang.net/share/rtb-papers/adx.pdf) by S. Muthukrishnan. Internet and network economics 2009.
